@@ -1,6 +1,7 @@
 <h3>Coffee shop project:</h3>
 
-Figma layout https://www.figma.com/file/yuPBhtrqVtcS6ri9mIdWN2/Coffee-House-(Copy)?node-id=0%3A1&mode=dev
+Figma layout:
+https://www.figma.com/file/yuPBhtrqVtcS6ri9mIdWN2/Coffee-House-(Copy)?node-id=0%3A1&mode=dev
 
 <h4>Description:</h4>
 
